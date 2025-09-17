@@ -1,1 +1,3 @@
-hello my name is sachin kumar
+git branch -M main
+git remote add origin https://github.com/sachinzzx/aryazzxx.git
+git push -u origin mai
