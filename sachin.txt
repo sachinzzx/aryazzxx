@@ -1,8 +1,2 @@
-git branch -M main
-git remote add origin https://github.com/sachinzzx/aryazzxx.git
-git push -u origin mai
-
-
-
-hi my name is sachin kumar achin kumar gyghgbhbb 
-sachin kumargit branch frfrvrvvvvvrvvbff
+age = 24
+print(age)
